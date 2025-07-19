@@ -1,5 +1,5 @@
 # 💫 About Me:
-rerd / geek 🤓<br>python web developer 🐍<br>web scraping enjoyer 🕸️
+nerd / geek 🤓<br>python web developer 🐍<br>web scraping enjoyer 🕸️
 
 
 ## 🌐 Socials:
